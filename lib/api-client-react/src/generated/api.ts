@@ -16,8 +16,10 @@ import type {
 } from '@tanstack/react-query';
 
 import type {
+  Analemma,
   CelestialEvent,
   DeepSkyObject,
+  GetAnalemmaParams,
   GetCelestialEventsParams,
   GetDeepSkyObjectsParams,
   GetISSPassesParams,
