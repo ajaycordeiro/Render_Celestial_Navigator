@@ -1,0 +1,9 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "DdbYqxq_izZ_gmClIOvdz"
+uri = "file://StarGazer-Project-Document.docx"
+type = "word_document"
+title = "StarGazer — Project Document (Updated)"
+description = "Updated Word document with expanded Initial Build prompts covering every tab — Dashboard, Planets, Moon, Stars, Deep Sky, ISS Tracker, Conditions, Sky Map, and Analemma."
